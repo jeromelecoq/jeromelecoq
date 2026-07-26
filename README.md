@@ -12,6 +12,10 @@ I work at the intersection of systems neuroscience, neural dynamics, two-photon 
 - **[OpenScope Databook](https://github.com/AllenInstitute/openscope_databook)** - Reproducible Python notebooks for exploring and analyzing NWB datasets on DANDI.
 - **[OpenScope Predictive Processing Community](https://github.com/AllenNeuralDynamics/openscope-community-predictive-processing)** - Open documentation, experiments, and shared analysis for testing models of predictive processing.
 
+## Selected software
+
+- **[DeepInterpolation](https://github.com/AllenInstitute/deepinterpolation)** - A deep-learning library for removing independent noise from systems-neuroscience recordings without clean ground-truth data ([*Nature Methods*, 2021](https://doi.org/10.1038/s41592-021-01285-2)).
+
 ## Selected publication
 
 - **[Recurrent pattern completion drives the neocortical representation of sensory inference](https://doi.org/10.1038/s41593-025-02055-5)** - *Nature Neuroscience* (2025). Multi-Neuropixels recordings, mesoscale two-photon imaging, and holographic optogenetics reveal cortical circuits of sensory inference.
