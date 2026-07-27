@@ -16,12 +16,6 @@ I work at the intersection of systems neuroscience, neural dynamics, two-photon 
 
 - **[DeepInterpolation](https://github.com/AllenInstitute/deepinterpolation)** - A deep-learning library for removing independent noise from systems-neuroscience recordings without clean ground-truth data ([*Nature Methods*, 2021](https://doi.org/10.1038/s41592-021-01285-2)).
 
-## Selected publication
-
-- **[Recurrent pattern completion drives the neocortical representation of sensory inference](https://doi.org/10.1038/s41593-025-02055-5)** - *Nature Neuroscience* (2025). Multi-Neuropixels recordings, mesoscale two-photon imaging, and holographic optogenetics reveal cortical circuits of sensory inference.
-
-I welcome collaborations around open experimental platforms, large-scale optical physiology, neural population analysis, and reproducible neuroscience.
-
 ## Research links
 
 [Allen Institute profile](https://alleninstitute.org/person/jerome-lecoq/) | [ORCID](https://orcid.org/0000-0002-0131-0938) | [Google Scholar](https://scholar.google.com/citations?user=qEadPMEAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/lecoqjerome/)
